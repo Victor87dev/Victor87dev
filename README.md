@@ -1,6 +1,7 @@
 ### Olá! Eu sou João Victor 👋
-- Meu e-mail para entrar em contato devsjoaovvictor@gmail.com 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dev87/)
+- 👨🏼‍🎓 Estudante de Ánalise e desenvolvimento de sistemas
+- 📧 Caso deseje entrar em contato devsjoaovvictor@gmail.com 
+
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor87dev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor87dev&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,3 +15,8 @@
   <img aling="" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img aling="" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>  
+
+## Redes Sociais
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dev87/)
+
