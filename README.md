@@ -2,7 +2,7 @@
 - 👨🏼‍🎓 Estudante de Ánalise e desenvolvimento de sistemas
 - 📧 Caso deseje entrar em contato devsjoaovvictor@gmail.com 
 <div>
-<img aling="" alt="" height="250" src="https://github-readme-stats.vercel.app/api?username=Victor87dev&show_icons=true&theme=codeSTACKr" />
+<img aling="" alt="" height="220" src="https://github-readme-stats.vercel.app/api?username=Victor87dev&show_icons=true&theme=codeSTACKr" />
    <img aling="" alt="" height="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor87dev&layout=pie&theme=codeSTACKr" />
 </div></br>
  
