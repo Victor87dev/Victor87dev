@@ -3,8 +3,8 @@
 - 📧 Caso deseje entrar em contato devsjoaovvictor@gmail.com 
 
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor87dev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor87dev&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor87dev&show_icons=true&theme=codeSTACKr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor87dev&layout=pie&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👨🏽‍💻 Tecnologias que utilizo
 
