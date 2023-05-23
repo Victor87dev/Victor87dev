@@ -5,8 +5,11 @@
 <img aling="" alt="" height="220" src="https://github-readme-stats.vercel.app/api?username=Victor87dev&show_icons=true&theme=codeSTACKr" />
    <img aling="" alt="" height="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor87dev&layout=pie&theme=codeSTACKr" />
 </div></br>
- 
- <img aling="" alt="HTML5" height="250" src="https://github.com/Victor87dev/Victor87dev/assets/108354816/f0124393-f249-42a7-a316-0c27b90fec83" />
+
+<div>
+ <img aling="" alt="HTML5" height="215" src="https://github.com/Victor87dev/Victor87dev/assets/108354816/f0124393-f249-42a7-a316-0c27b90fec83" />
+ <a href="http://www.github.com/Victor87dev"><img width= 60% src= "https://github-readme-streak-stats.herokuapp.com/?user=Victor87dev&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div></br>   
  
 ## 👨🏽‍💻 Tecnologias que utilizo
 <div><br/>
