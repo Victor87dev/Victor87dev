@@ -8,7 +8,7 @@
 
 <div>
  <img aling="" alt="HTML5" height="215" src="https://github.com/Victor87dev/Victor87dev/assets/108354816/f0124393-f249-42a7-a316-0c27b90fec83" />
- <a href="http://www.github.com/Victor87dev"><img width= 60% src= "https://github-readme-streak-stats.herokuapp.com/?user=Victor87dev&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ <a href="http://www.github.com/Victor87dev"><img width= 65% src= "https://github-readme-streak-stats.herokuapp.com/?user=Victor87dev&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div></br>   
  
 ## 👨🏽‍💻 Tecnologias que utilizo
