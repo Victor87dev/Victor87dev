@@ -1,5 +1,6 @@
 ### Olá! Eu sou João Victor 👋
-- 👨🏼‍🎓 Estudante de Análise e desenvolvimento de sistemas
+- 👨🏼‍🎓 Formado em Análise e desenvolvimento de sistemas.
+- 👨🏼‍🎓 Curso de Front-End pela Rede cidadã, equipe vencedora do hackathon.
 - 📧 Caso deseje entrar em contato devsjoaovvictor@gmail.com 
 <div>
 <img aling="" alt="" height="220" src="https://github-readme-stats.vercel.app/api?username=Victor87dev&show_icons=true&theme=codeSTACKr" />
