@@ -26,16 +26,6 @@
   <img aling="center" width="55" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img aling="center" width="55" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img aling="center" width="55" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
-          
-          
-  
-  
-
-          
-          
-                                                  
-  
-          
 </div>  
 
 ## Redes Sociais
